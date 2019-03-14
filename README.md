@@ -1,2 +1,2 @@
 # powercli
-Scripts on powercli to help daily ops
+Just a collection of powercli scripts developed to help daily ops
